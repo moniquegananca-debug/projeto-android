@@ -196,4 +196,9 @@ footer{
 footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
+    background-image: radial-gradient(right);
 }
+
+
+
+
